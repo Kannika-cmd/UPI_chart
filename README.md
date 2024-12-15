@@ -1,1 +1,11 @@
-# UPI_chart
+AGENDA:
+-Data importing to pandas
+-Top 5 rows of the data
+-checked the duplicate values
+-Removed/Dropped the unique values
+-Checked missing values
+-Checked the datatypes
+-Descriptive analysis
+-Creating year and month column
+-Mapped the months in MMM format
+-Target variable distribution(fraud and non fraud)
